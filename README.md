@@ -8,7 +8,7 @@ the reason of creation of this project is simple to show up my coding as well as
 i used my own database or this we can say my own photo collection.
 i intially started with the basic task like to make heading and backgrond of the body.
 i provide the styling to the heading and the body using css
-
+ for page view link :- https://keen-dubinsky-6adf6f.netlify.app
 
 HTML code
 
